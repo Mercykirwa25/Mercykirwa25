@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Mercy Kirwa
+### I am a passionate Data Scientist from Kenya ![KenyaFlagGifGIF](https://github.com/user-attachments/assets/0689452a-1268-448e-9671-10cbb5431c17)
 
 <!--
 **Mercykirwa25/Mercykirwa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
