@@ -1,7 +1,7 @@
 # 🌟 Hi 👋, I'm Mercy Kirwa
 ### **Data Analyst | Junior Data Scientist | AI & Deep Learning Enthusiast**
 
----
+
 
 ## 🚀 About Me
 I’m a Data Scientist with hands-on training in data analysis, machine learning, and deep learning.  
@@ -11,14 +11,14 @@ I recently completed a comprehensive Data Science program where I worked with Py
 I completed several projects during my studies and am currently expanding my portfolio with end-to-end projects using real-world datasets.
 I’m also eager to expand my skills in cloud platforms (Google Cloud) and advanced databases like PostgreSQL.
 
----
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercy-kirwa/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mercykirwa24@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mercykirwa25)
 
----
+
 
 ## 🎓 Education
 **Data Science Program – Completed**  
@@ -30,7 +30,7 @@ Covered:
 - Quantitative Statistics  
 - Final Capstone Project  
 
----
+
 
 ## 💡 Technical Skills
 
@@ -59,7 +59,7 @@ Covered:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
----
+
 
 ## 💼 What I’m Doing Now
 🔭 Building portfolio projects using real-world datasets  
@@ -67,18 +67,15 @@ Covered:
 🤝 Seeking opportunities in data analysis, data science, and AI-powered analytics  
 🌱 Eager to learn cloud platforms like Google Cloud and advanced databases like PostgreSQL
 
----
+
 
 ## 👨‍💻 Projects
 Portfolio projects coming soon.  
 Notebooks and case studies will be added here.  
 
----
+
 
 ## ⚡ Fun Fact
 I learn fastest when I break things and fix them again 😄
 
----
 
-## 📊 GitHub Stats
-![Mercy Kirwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mercykirwa25&show_icons=true&theme=radical)
