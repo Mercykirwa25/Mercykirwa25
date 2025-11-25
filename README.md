@@ -7,8 +7,8 @@
 I’m a Data Scientist with hands-on training in data analysis, machine learning, and deep learning.  
 I love exploring datasets, uncovering insights, and building AI-powered solutions that help drive smarter decisions.
 
-I recently completed a comprehensive Data Science program where I worked with Python, SQL, ML & DL models, visualization, and statistical analysis.  
-Currently building my portfolio with end-to-end projects and real-world datasets.  
+I recently completed a comprehensive Data Science program where I worked with Python, SQL, ML & DL models, visualization, and statistical analysis.
+I completed several projects during my studies and am currently expanding my portfolio with end-to-end projects using real-world datasets.
 I’m also eager to expand my skills in cloud platforms (Google Cloud) and advanced databases like PostgreSQL.
 
 ---
