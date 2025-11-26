@@ -35,7 +35,7 @@ Covered:
 ## 💡 Technical Skills
 
 ### **Programming & Analysis**
-![Python](https://img.shields.io/badge/Python-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### **AI / Machine Learning / Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
